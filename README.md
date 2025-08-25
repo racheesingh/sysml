@@ -8,5 +8,5 @@ seo:
   name: Systems for large scale machine learning
 ---
 
-# Cornell CS5470: Systems for Large-scale Machine Learning
+# Cornell CS5470: Systems for Large-scale ML
 
