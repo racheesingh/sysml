@@ -1,11 +1,11 @@
 ---
 layout: home
-title: Just the Class
+title: Systems for Large-Scale Machine Learning
 nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: Just the Class
+  name: Systems for large scale machine learning
 ---
 
 # Cornell CS5470: Systems for Large-scale Machine Learning
