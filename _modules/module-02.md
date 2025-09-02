@@ -7,5 +7,5 @@ Sep 1
   
 
 Sep 3
-: [Memory, Compute and Communication in ML]()
+: [Memory, Compute and Communication needs of LLMs]()
   : [Optional reading: ]()
