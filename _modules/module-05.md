@@ -9,9 +9,8 @@ Sep 24
 : [Hybrid Parallelism (Part 1)]()
 
 Sep 29
-: [Introduction to distributed training]()
+: [Hybrid Parallelism (Part 2)]()
   
 Oct 01
-: [Hybrid Parallelism (Part 2)]()
-
+: [Collective Communication]()
 
