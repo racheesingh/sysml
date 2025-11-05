@@ -25,7 +25,17 @@ You are not allowed to share any code and text (including reports, summaries and
 
 # Grading Policy:
 - Class Participation (10%)
-- Paper Presentations (15%)
-- Programming Assignments (30%)
-- Course Project (40%)
+- Programming Assignments (40%)
+- Course Project (45%)
 - End of semester survey (5%)
+
+# Programming Assigments
+This course has 3 programming assignments:
+ - [Assignment 1](https://github.com/EricDinging/CS5470/tree/main/assignment_1): vLLM benchmarking and profiling
+ - [Assignment 2](https://github.com/EricDinging/CS5470/tree/main/assignment_2): prompt scheduling for improved performance
+ - [Assignment 3](https://github.com/EricDinging/CS5470/tree/main/assignment_3): custom CUDA Attention kernel
+
+For each assignment and hands-on session, we will allocate GPU hours on Perlmutter to every student. You should use these GPU hours carefully to not run out before you complete the activity.
+
+# Course Projects
+Students will do a course project in a group of four. We will design a speciic project for each group. Once you are assigned the project, you will scope the project out (one week, 10% of the project score). There will be midterm progress presentations (30% of the project score). At the end of the finals period, you will submit your code (30% of the project score) and project report (30% of the project report).
