@@ -3,7 +3,7 @@ title: Module  5 - Distributed Training with Tensor/Pipeline/Sequence/Expert Par
 ---
 
 Oct 20
-: [Introduction to row-linear and column-inear tensor parallelism](https://canvas.cornell.edu/courses/80221/files?preview=13916314)
+: [Tensor parallelism](https://canvas.cornell.edu/courses/80221/files?preview=13916314)
 
 Oct 22
 : [Introduction to Machine Learning Compilers](https://canvas.cornell.edu/courses/80221/files?preview=13916391)
