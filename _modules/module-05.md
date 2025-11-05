@@ -1,16 +1,22 @@
 ---
-title: Module  5 - Distributed Training and Finetuning
+title: Module  5 - Distributed Training with Tensor/Pipeline/Sequence/Expert Parallelisms
 ---
 
-Sep 22
-: [Introduction to distributed training]()
-  
-Sep 24
-: [Hybrid Parallelism (Part 1)]()
+Oct 20
+: [Introduction to row-linear and column-inear tensor parallelism](https://canvas.cornell.edu/courses/80221/files?preview=13916314)
 
-Sep 29
-: [Hybrid Parallelism (Part 2)]()
+Oct 22
+: [Introduction to Machine Learning Compilers](https://canvas.cornell.edu/courses/80221/files?preview=13916391)
+
+Oct 27
+: [Sequence and Pipeline parallelism](https://canvas.cornell.edu/courses/80221/files?preview=13962144)
+
+Oct 29
+: [Expert Parallelism and MoE](https://canvas.cornell.edu/courses/80221/files?preview=13982967)
   
-Oct 01
-: [Collective Communication]()
+Nov 03
+: [Collective Communication](https://canvas.cornell.edu/courses/80221/files?preview=14025192)
+
+Nov 05
+: [Hybrid Parallelism Conclusion]()
 

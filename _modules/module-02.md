@@ -7,5 +7,5 @@ Sep 1
   
 
 Sep 3
-: [Memory, Compute and Communication needs of LLMs]()
-  : [Optional reading: ]()
+: [Memory Use in Transformer-based LLMs](https://canvas.cornell.edu/courses/80221/files?preview=13481252)
+  : Optional reading: [Reducing Activation Recomputation in Large Transformer Models](https://arxiv.org/abs/2205.05198), [FlashAttention](https://arxiv.org/abs/2307.08691)
