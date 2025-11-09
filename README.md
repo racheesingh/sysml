@@ -33,7 +33,7 @@ You are not allowed to share any code and text (including reports, summaries and
 This course has 3 programming assignments:
  - [Assignment 1](https://github.com/EricDinging/CS5470/tree/main/assignment_1): vLLM benchmarking and profiling
  - [Assignment 2](https://github.com/EricDinging/CS5470/tree/main/assignment_2): prompt scheduling for improved performance
- - [Assignment 3](https://github.com/EricDinging/CS5470/tree/main/assignment_3): custom CUDA Attention kernel
+ - [Assignment 3](https://github.com/EricDinging/CS5470/tree/main/assignment_3): custom Attention kernel in CUDA
 
 For each assignment and hands-on session, we will allocate GPU hours on Perlmutter to every student. You should use these GPU hours carefully to not run out before you complete the activity.
 
