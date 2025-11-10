@@ -3,7 +3,7 @@ title: Module  6 - Advanced Topics
 ---
 
 Nov 10
-: [LLM Inference]()
+: [LLM inference optimizations]()
 
 Nov 12
 : [Parameter Effecient Fine-Tuning]()
