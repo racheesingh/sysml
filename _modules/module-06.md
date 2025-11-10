@@ -3,10 +3,10 @@ title: Module  6 - Advanced Topics
 ---
 
 Nov 10
-: [Parameter Effecient Fine-Tuning]()
+: [LLM Inference]()
 
 Nov 12
-: []()
+: [Parameter Effecient Fine-Tuning]()
 
 Nov 17
 : [LLM Agents]()
