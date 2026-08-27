@@ -5,7 +5,7 @@
 # in the templates via {{ site.myvariable }}.
 title: CS5470 SYSML
 tagline: Systems for Large-Scale Machine Learning
-description: Systems for Large-Scale Machine Learning (Cornell CS5470)
+description: Systems for Large-Scale Machine Learning (Cornell CS5470) — Fall 2026
 author: Rachee Singh
 baseurl: '/sysml' 
 

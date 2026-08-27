@@ -8,7 +8,7 @@ seo:
   name: Systems for large scale machine learning
 ---
 
-# Cornell CS5470: Systems for Large-scale ML
+# Cornell CS5470: Systems for Large-scale ML (Fall 2026)
 This course explores the systems challenges of training and serving large-scale ML models like GPT, LLaMA, and DeepSeek. You will learn how to design and operate distributed training and inference on multi-accelerator hardware, with attention to performance, memory, communication, and fault tolerance. The emphasis is on both theory and practice so we will combine  with hands-on programming sessions, assignments and projects. By the end, you will have practical experience tackling the core bottlenecks of modern ML systems.
 
 **Acknowledgement**: this course is supported by a [NERSC](https://www.nersc.gov/) Education Allocation Award.
@@ -29,11 +29,11 @@ You are not allowed to share any code and text (including reports, summaries and
 - Course Project (45%)
 - End of semester survey (5%)
 
-# Programming Assigments
+# Programming Assignments
 This course has 3 programming assignments:
- - [Assignment 1](https://github.com/EricDinging/CS5470/tree/main/assignment_1): vLLM benchmarking and profiling
- - [Assignment 2](https://github.com/EricDinging/CS5470/tree/main/assignment_2): prompt scheduling for improved performance
- - [Assignment 3](https://github.com/EricDinging/CS5470/tree/main/assignment_3): custom Attention kernel in CUDA
+ - Assignment 1: TBD
+ - Assignment 2: TBD
+ - Assignment 3: TBD
 
 For each assignment and hands-on session, we will allocate GPU hours on Perlmutter to every student. You should use these GPU hours carefully to not run out before you complete the activity.
 
