@@ -19,4 +19,4 @@ Wed, Sep 9
 
 Mon, Sep 14
 : Counting FLOPs in a Transformer, arithmetic intensity and the roofline model
-  : Optional reading: [How to Scale Your Model](https://jax-ml.github.io/scaling-book/), Part 1
+  : Optional reading: How to Scale Your Model, chapters [1 (rooflines)](https://jax-ml.github.io/scaling-book/roofline) and [4 (Transformer math)](https://jax-ml.github.io/scaling-book/transformers)
