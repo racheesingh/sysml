@@ -2,18 +2,14 @@
 title: Module 3 - Hardware infrastructure for machine learning
 ---
 
-Wed, Sep 9
-: Multi-GPU servers and interconnects
-  : GPU architecture, NVLink, NVSwitch
-
-Mon, Sep 14
-: ML-centric datacenters
-  : Datacenter Clos networks, TPU torus and rail-optimized datacenters for ML
-
 Wed, Sep 16
-: Communication infrastructure
-  : RDMA, InfiniBand
+: AI infrastructure I: scale-up domains
+  : NVLink and NVSwitch, GB200 NVL72, TPU pods and optical circuit switches, Cerebras wafer-scale systems
 
 Mon, Sep 21
-: [Training an LLM (hands-on activity)](https://www.manning.com/books/build-a-large-language-model-from-scratch)
-  : Bring your laptops to class
+: AI infrastructure II: datacenter networks and RDMA
+  : Clos and rail-optimized fabrics, RoCE and InfiniBand, PFC, IRN, OpenAI's Multipath Reliable Connection (MRC)
+
+Try it on your own
+: [Train a small LLM from scratch](https://www.manning.com/books/build-a-large-language-model-from-scratch)
+  : Not a class meeting; work through the notebook before Module 4 starts

@@ -13,3 +13,10 @@ Wed, Sep 2
 
 Mon, Sep 7
 : No Class (Labor Day)
+
+Wed, Sep 9
+: Class cancelled
+
+Mon, Sep 14
+: Counting FLOPs in a Transformer, arithmetic intensity and the roofline model
+  : Optional reading: [How to Scale Your Model](https://jax-ml.github.io/scaling-book/), Part 1
