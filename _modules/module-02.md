@@ -3,11 +3,11 @@ title: Module 2 - Systems implications of the Transformer architecture
 ---
 
 Mon, Aug 31
-: [Memory use in Transformer-based LLMs](https://canvas.cornell.edu/courses/92233/files?preview=15948886)
+: [Memory use in Transformer-based LLMs](https://canvas.cornell.edu/courses/92233/files/15948886)
   : Optional reading: [Reducing Activation Recomputation in Large Transformer Models](https://arxiv.org/abs/2205.05198)
 
 Wed, Sep 2
-: [Performance of ML workloads: compute, data movement and roofline thinking](https://canvas.cornell.edu/courses/92233/files?preview=15969531)
+: [Performance of ML workloads: compute, data movement and roofline thinking](https://canvas.cornell.edu/courses/92233/files/16065791)
   : Optional reading: (1) [Roofline: An Insightful Visual Performance Model](https://dl.acm.org/doi/10.1145/1498765.1498785)
     (2) [Making Deep Learning Go Brrrr From First Principles](https://horace.io/brrr_intro.html)
 
@@ -18,5 +18,8 @@ Wed, Sep 9
 : Class cancelled
 
 Mon, Sep 14
-: Counting FLOPs in a Transformer, arithmetic intensity and the roofline model
+: [Counting FLOPs in a Transformer, arithmetic intensity and the roofline model](https://canvas.cornell.edu/courses/92233/files/16065793)
   : Optional reading: How to Scale Your Model, chapters [1 (rooflines)](https://jax-ml.github.io/scaling-book/roofline) and [4 (Transformer math)](https://jax-ml.github.io/scaling-book/transformers)
+
+Wed, Sep 16
+: [Arithmetic intensity: from memory-bound to compute-bound kernels](https://canvas.cornell.edu/courses/92233/files/16129026)
