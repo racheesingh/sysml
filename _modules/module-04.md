@@ -2,14 +2,12 @@
 title: Module 4 - Distributed training with data parallelism
 ---
 
-Wed, Sep 23
+Mon, Sep 28
 : Introduction to distributed training
 
-Mon, Sep 28
-: Data parallelism with ZeRO
-
 Wed, Sep 30
-: Data parallelism with ZeRO-3 and FSDP
+: Data parallelism with ZeRO and FSDP
+  : ZeRO stages 1 to 3 and PyTorch FSDP
 
 Mon, Oct 5
 : Collective communication
