@@ -13,5 +13,5 @@ Wed, Nov 25
 : No Class (Thanksgiving Break)
 
 Mon, Nov 30
-: World models
-  : Guest lecture; speaker to be announced
+: Guest lecture: Vibhaalakshmi Sivaraman (World Labs), world models
+  : Title and abstract to be announced

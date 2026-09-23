@@ -11,7 +11,8 @@ Wed, Oct 28
   : Buffer for material we are behind on
 
 Mon, Nov 2
-: Guest lecture (to be announced)
+: Guest lecture: Abhinav Jangda (Microsoft), GPU kernels and machine learning compilers
+  : Title and abstract to be announced
 
 Wed, Nov 4
 : Guest lecture: Ben Klenk (NVIDIA), communication for machine learning
