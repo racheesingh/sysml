@@ -7,15 +7,15 @@ Mon, Sep 21
   : Using the roofline model, communication as the third resource, the bandwidth hierarchy, scale-up versus scale-out, xAI's Colossus
 
 Wed, Sep 23
-: AI infrastructure II: scale-up domains and TPUs
+: [AI infrastructure II: scale-up domains and TPUs](https://canvas.cornell.edu/courses/92233/files/16195074)
   : NVIDIA DGX servers, NVLink and NVSwitch, GB200 NVL72, the TPU chip and its systolic array
 
 Mon, Sep 28
-: AI infrastructure III: TPU pods and scale-out networks
+: [AI infrastructure III: TPU pods and scale-out networks](https://canvas.cornell.edu/courses/92233/files/16195597)
   : TPU generations, the ICI torus and optical circuit switches, Clos and rail-optimized fabrics
 
 Wed, Sep 30
-: AI infrastructure IV: RDMA
+: [AI infrastructure IV: RDMA](https://canvas.cornell.edu/courses/92233/files/16223660)
   : Why not TCP, registered memory and queue pairs, InfiniBand and RoCE, priority flow control (PFC), what breaks at 100,000 GPUs, OpenAI's Multipath Reliable Connection (MRC)
 
 Try it on your own
