@@ -1,15 +1,11 @@
 ---
-title: Module 6 - Machine learning compilers and guest lectures
+title: Module 6 - Guest lectures
 ---
 
-Wed, Oct 28
-: Kernel fusion, FlashAttention and machine learning compilers
-  : Optional reading: [FlashAttention](https://arxiv.org/abs/2205.14135)
-
 Mon, Nov 2
-: Guest lecture: Abhinav Jangda (Microsoft), GPU kernels and machine learning compilers
-  : Title and abstract to be announced
+: Guest lecture: Abhinav Jangda (Microsoft Research)
+  : SubCubic-LLM: Faster LLM Inference using Strassen-like Algorithms for Matrix Multiplication ([abstract and bio](/sysml/guest-lectures/))
 
 Wed, Nov 4
-: Guest lecture: Ben Klenk (NVIDIA), communication for machine learning
-  : Title and abstract to be announced
+: Guest lecture: Benjamin Klenk (NVIDIA Research)
+  : From the Chip to the Rack and Beyond: Architecture for Large Language Models ([abstract and bio](/sysml/guest-lectures/))
